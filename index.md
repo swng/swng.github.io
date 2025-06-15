@@ -19,7 +19,7 @@
 - [ttpc_2](/ttpc_2)  
     TTPC but with some QOL changes, faster handling, 180 added, ye
 - [ttt](/ttt)  
-    Tetris Trainer Tres-Bien - translated to English. Teaches a bunch of useful midgame T-Spin tech, and some useful SRS spins.
+    [Tetris Trainer Tres-Bien](http://taninkona.web.fc2.com/ttt/) - manually translated to English. Teaches a bunch of useful midgame T-Spin tech, and some useful SRS spins.
 - [twowide](/twowide)  
     Twowide puzzle site, originally set up by garbo and nukeexplotions, now maintained by me. Rush mode is defunct now, without a backend server since github pages is just static. Play on [sixwi.de](https://sixwi.de/) or [twowi.de](https://twowi.de/) !!! (Actually has backend server. Puzzles there are actively being maintained and updated and new puzzles and features are being added).
 - [ultra_to_blitz](/ultra_to_blitz)  
