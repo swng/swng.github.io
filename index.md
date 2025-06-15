@@ -30,3 +30,20 @@
     Actively maintained practice tool.
 - [zztetris_unstable](/zztetris_unstable)  
     um I used this as a fork to test random features. I think the current version showcases "originality" buckets that were present as hidden values in tetrio's 5m blast event.
+
+# List of non-github tetris projects
+
+Github Pages was great for static sites, but some projects involve compute backends.  
+I own https://sixwi.de/ and put some projects there.
+
+- [SFinder Site](https://sfinder.sixwi.de/)  
+    Web tool for using sfinder. Includes board drawing UI some simple input fields, and a button to call the backend sfinder API. Results are visually renders if applicable. Actively being developed. Most commands are PC related. May add more command types in the future.  
+    Also available as a discord bot (with more commands). Discord bot is a group project. Best place to get started using the bot might be [the PC Gang discord server](https://discord.gg/HQ3aJM7TJw).
+- https://sixwi.de/  
+    This is where I'm actively developing the original twowi.de puzle project. Lots of challenging T-Spin puzzles to play here. Compete on the leaderboard! New puzzles are being actively worked on.
+- [Least Blocks Cheese Race Leaderboard](https://cheese.sixwi.de/)  
+    Originally written by freyhoe, I'm hosting this leaderboard now. Downstacking cheese efficiently is a skill we find valuable, but jstris only has a time-based leaderboard! So we have this third-party resource to track least-blocks as a leaderboard. orz is cool
+- https://zztetris.sixwi.de/ and https://fumen.sixwi.de/  
+    These are open source on github, but I have them here for the convenient URLs.
+
+I have some more private projects that I probably won't share here.
