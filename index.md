@@ -116,10 +116,7 @@ Originally written by freyhoe, I'm hosting this leaderboard now. Downstacking ch
 <details>
 <summary><a href="https://zztetris.sixwi.de/">zztetris.sixwi.de</a> and <a href="https://fumen.sixwi.de/">fumen.sixwi.de</a></summary>
 
-These are open source on github, but I have them here for the convenient URLs.  
-- [zztetris.sixwi.de](https://zztetris.sixwi.de/)  
-- [fumen.sixwi.de](https://fumen.sixwi.de/)
-
+These are open source on github, but I have them here for the convenient URLs.
 </details>
 
 
