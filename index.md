@@ -45,5 +45,7 @@ I own [sixwi.de](https://sixwi.de/) and put some projects there.
     Originally written by freyhoe, I'm hosting this leaderboard now. Downstacking cheese efficiently is a skill we find valuable, but jstris only has a time-based leaderboard! So we have this third-party resource to track least-blocks as a leaderboard. orz is cool
 - [zztetris.sixwi.de](https://zztetris.sixwi.de/) and [fumen.sixwi.de](https://fumen.sixwi.de/)  
     These are open source on github, but I have them here for the convenient URLs.
+- [stopwatch.sixwi.de](https://stopwatch.sixwi.de/)  
+    Literally a simple stopwatch page. I use it for myself when cooking.
 
 I have some more private projects that I probably won't share here.
