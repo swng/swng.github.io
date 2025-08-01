@@ -47,5 +47,7 @@ I own [sixwi.de](https://sixwi.de/) and put some projects there.
     These are open source on github, but I have them here for the convenient URLs.
 - [stopwatch.sixwi.de](https://stopwatch.sixwi.de/)  
     Literally a simple stopwatch page. I use it for myself when cooking.
+- [tetriscom.sixwi.de](https://tetriscom.sixwi.de/)  
+    Draedon123's archive of tetris.com gamemodes, being hosted on my domain.
 
 I have some more private projects that I probably won't share here.
